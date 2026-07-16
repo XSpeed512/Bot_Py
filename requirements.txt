@@ -1,0 +1,16 @@
+# ============================================================
+# AdaptiveBot — Dipendenze unificate
+# ============================================================
+
+# MetaTrader 5
+MetaTrader5>=5.0.45
+
+# Data science
+pandas>=2.0.0
+numpy>=1.26.0
+
+# YAML config (per compatibilità con i nuovi moduli)
+pyyaml>=6.0
+
+# Utilities
+python-dateutil>=2.8.2
